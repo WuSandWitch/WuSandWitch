@@ -1,8 +1,6 @@
-# SandWitch Wu
+# 阿溟
+WuSandWitch | 三明治
 
-just a new a account of [URLoser404](https://github.com/URLoser404)
+- Old Account [URLoser404](https://github.com/URLoser404)
+- Old Blog [URLoser404 | Blog](https://urloser404.github.io)
 
-- [blog](https://urloser404.github.io)
-
-
-test
